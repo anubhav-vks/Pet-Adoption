@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: red;
+    background-color: rgb(33, 15, 230);
 }
 
 header {
@@ -50,8 +50,8 @@ form {
 
 button {
     padding: 10px;
-    background-color: #333;
-    color: #c01616;
+    background-color: #c8d50a;
+    color: #1014e4;
     border: none;
     border-radius: 4px;
     cursor: pointer;
