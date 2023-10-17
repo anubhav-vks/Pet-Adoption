@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url("./assets/bg.jpg") ;
+    background-attachment: fixed;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: yellow;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: auto;
+    width: 50%;
+}
+header {
+    background-color: #c9ed17;
+    color: #2d37c4;
+    text-align: center;
+    padding: 20px;
+    background-color: unset;
+}

@@ -3,7 +3,8 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: rgb(33, 15, 230);
+    background-image: url("./assets/bg.jpg") ;
+    background-attachment: fixed;
 }
 
 header {
@@ -11,6 +12,7 @@ header {
     color: #2d37c4;
     text-align: center;
     padding: 20px;
+    background-color: unset;
 }
 
 .container {
@@ -29,6 +31,8 @@ header {
     box-sizing: border-box;
     border: 1px solid #ddd;
     border-radius: 8px;
+    background-image: url("assets/columnimg.jpg");
+    background-size: cover;
 }
 
 .column img {
@@ -36,17 +40,14 @@ header {
     height: auto;
     border-radius: 4px;
 }
-
-form {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: 20px;
-    background-color: #f4f4f4;
-    border: 1px solid #ddd;
-    border-radius: 8px;
+#heading{
+    color: sienna;
 }
+#heading2{
+    color: mediumblue;
+}
+
+
 
 button {
     padding: 10px;
@@ -68,8 +69,27 @@ input, textarea{
     display: block;
 }
 
-p{
-    padding: 0;
-    margin: 0;
+
+#text1{
+    background-color: cornsilk;
+    margin: 0 0;
+    color: darkslateblue;
+
 }
 
+.submitMsg{
+    text-align: center;
+    
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: unset;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: auto;
+    width: 50%;
+}
