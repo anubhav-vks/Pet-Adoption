@@ -79,7 +79,7 @@
             </div>
         </div>
         </nav>
-        <h1 class="text-center">Admininstrator</h1>
+        <h1 class="text-center">Administrator</h1>
     <h1 class="text-center">Login Page</h1>
     <div class="container mt-5">
     <form action="adminlogin.php" method = "post">

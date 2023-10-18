@@ -42,9 +42,15 @@ header {
 }
 #heading{
     color: sienna;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+    font-size: 600%;
+    font-weight: bolder;
 }
 #heading2{
-    color: mediumblue;
+    color: red;
+    background-color: yellow;
+    font-family: 'Brush Script MT';
 }
 
 

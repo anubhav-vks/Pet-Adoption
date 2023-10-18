@@ -42,9 +42,9 @@
     
     
     <header>
-        <h1 id="heading">Available Pets For Adoption</h1>
-        <h2 id = "heading2">Please note the Pet ID of your love carefully, as you will be asked to fill it in the adoption form.</h2>
-        <h3 >Please Login To fill the adoption form</h3>
+        <h1 id="heading"  >Pawdopt <br> Adopt, Don't Shop</h1>
+        <h2 id = "heading2">! Please note the Pet ID of your love carefully, as you will be asked to fill it in the adoption form. </br> Please Login To fill the adoption form </h2>
+        <h3 ></h3>
     </header>
 
     <div class="container">

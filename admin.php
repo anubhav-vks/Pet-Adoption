@@ -10,6 +10,9 @@
 </head>
 <body>
      <div class="container">
+     <a class="butt" href="index.php"><button>
+          Home
+     </button></a>
      <a class="butt" href="requestdata.php"><button>
           Adoption Request
      </button></a>

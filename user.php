@@ -8,7 +8,16 @@
      <link rel="stylesheet" href="admin.css?v=<?=$version?>">
 </head>
 <body>
-<a href="index.php">Home</a>
+<div class="container">
+     <a class="butt" href="index.php"><button>
+          Home
+     </button></a>
+     <a class="butt" href="requestdata.php"><button>
+          Adoption Request
+     </button></a>
+     <!-- <a class="butt" href="user.php"><button>User Database</button></a> -->
+     </div>
+
      <table class="table" align="center" border="1px" style="width:600px; line-height:40px;"> 
 	<tr> 
 		<th class="head1" colspan="9"><h2>Users Database</h2></th> 
