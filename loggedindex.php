@@ -31,7 +31,7 @@
             <a class="nav-link" href="sign.php">SignUp</a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="login.php">Login</a>
+            <a class="nav-link" href="index.php">Logout</a>
             </li>
         </ul>
         
@@ -44,7 +44,6 @@
     <header>
         <h1 id="heading">Available Pets For Adoption</h1>
         <h2 id = "heading2">Please note the Pet ID of your love carefully, as you will be asked to fill it in the adoption form.</h2>
-        <h3 >Please Login To fill the adoption form</h3>
     </header>
 
     <div class="container">
@@ -65,9 +64,9 @@
                 
             </details>
             </div>
-            <!-- <a href="form.php">
+            <a href="form.php">
                 <button>Adopt Me</button>
-            </a> -->
+            </a>
         </div>
 
         <div class="column">
@@ -85,9 +84,9 @@
                 <p>Age: 1 years</p>
                 </details>
             </div>
-                <!-- <a href="form.php">
+                <a href="form.php">
                     <button>Adopt me</button>
-                </a> -->
+                </a>
             
         </div>
 
@@ -106,9 +105,9 @@
             <p>Age: 7 months</p>
             </details>
             </div>
-            <!-- <a href="form.php">
+            <a href="form.php">
                 <button>Adopt Me</button>
-            </a> -->
+            </a>
         </div>
         <div class="column">
             <img src="assets\pet\dog\Siberian Husky.webp" alt="error">
@@ -125,9 +124,9 @@
             <p>Age: 1 years 1 months</p>
             </details>
             </div>
-            <!-- <a href="form.php">
+            <a href="form.php">
                 <button>Adopt Me</button>
-            </a> -->
+            </a>
             
         </div>
 
@@ -146,10 +145,10 @@
             <p>Age: 1 year 8 months</p>
             </details>
             </div>
-            <!-- <a href="form.php">
+            <a href="form.php">
                 <button>Adopt me</button>
             </a>
-             -->
+            
         </div>
 
         <div class="column">
@@ -167,9 +166,9 @@
             <p>Age: 3 years 5 months</p>
             </details>
             </div>
-            <!-- <a href="form.php">
+            <a href="form.php">
                 <button>Adopt Me</button>
-            </a> -->
+            </a>
         </div>
         <div class="column">
             <img src="assets\pet\birds\African-Grey-Parrot-1024x824.webp" alt="error">
@@ -186,9 +185,9 @@
             <p>Age: 6 months</p>
             </details>
             </div>
-            <!-- <a href="form.php">
+            <a href="form.php">
                 <button>Adopt Me</button>
-            </a> -->
+            </a>
             
         </div>
 
@@ -207,9 +206,9 @@
             <p>Age: 2 years</p>
             </details>
             </div>
-            <!-- <a href="form.php">
+            <a href="form.php">
                 <button>Adopt me</button>
-            </a> -->
+            </a>
             
         </div>
 
@@ -228,9 +227,9 @@
             <p>Age: 1 year</p>
             </details>
             </div>
-            <!-- <a href="form.php">
+            <a href="form.php">
                 <button>Adopt Me</button>
-            </a> -->
+            </a>
         </div>
         
     </div>

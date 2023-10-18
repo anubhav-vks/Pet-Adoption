@@ -1,6 +1,7 @@
 body{
     background-image: url("./assets/bg.jpg");
     /* background-size: cover; */
+    background-attachment: fixed;
 }
 .head{
     background-color: rgb(17, 128, 207);
