@@ -7,10 +7,11 @@
     if($_SERVER['REQUEST_METHOD'] == 'POST'){
         include 'connect.php';
         $username = $_POST['username'];
+        $name=$_POST['name'];
         $password=$_POST['password'];
 
 
-        $sql = "insert into `user` (username, password) values('$username' , '$password')";
+        $sql = "insert into `user` (username, password, name) values('$username' , '$password', '$name')";
         $result = mysqli_query($con, $sql);
 
         if($result){
@@ -78,9 +79,14 @@
 
         </div>
         <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Name</label>
+            <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Enter your Name" name="name">
+        </div>
+        <div class="mb-3">
             <label for="exampleInputPassword1" class="form-label">Password</label>
             <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Enter your Password" name="password">
         </div>
+
 
         <button type="submit" class="btn btn-primary">Submit</button>
     </form>
