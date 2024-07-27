@@ -5,5 +5,5 @@ Welcome to Pet Adoption, a heartwarming project that brings together the love fo
 # GOOGLE DRIVE LINK FOR PROJECT REPORT AND PRESENTATION:
 https://drive.google.com/drive/folders/1XpIdm41oG8uHQGESAhuULfPjWwbc-73k?usp=sharing
 
-# You can see the final hosted hebsite on:
+# Try the website here:
 https://pawdopt.000webhostapp.com/index.php
